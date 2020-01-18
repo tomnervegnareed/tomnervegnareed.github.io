@@ -201,7 +201,7 @@ p {
 /* Inquries text */
 .class8 {
 		font-family: 'Padauk', sans-serif;
-		font-size: calc( 9px + (13.5 - 9) * (100vw - 450px) / (1000 - 450) );
+		font-size: calc( 11px + (13.5 - 11) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0 rem;
     font-weight: 500;
     color: #e4e4e4;
