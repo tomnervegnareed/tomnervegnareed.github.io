@@ -1,0 +1,2 @@
+Sitemap: http://tomnervegnareed.com/sitemap_location.xml
+http://www.google.com/ping?sitemap=http://tomnervegnareed.com/sitemap_location.xml
