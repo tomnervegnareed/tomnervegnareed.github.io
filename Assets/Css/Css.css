@@ -100,6 +100,13 @@ p {
 
 .Textindent {
     text-indent: 50px;
+    font-family: 'Padauk', sans-serif;
+		font-size: calc( 18px + (26 - 18) * (100vw - 450px) / (1000 - 450) );
+    letter-spacing: 0 rem;
+    font-weight: 500;
+    color: #D6D6D6;
+    float: left;
+    padding-bottom: 4vh; 
    }
    
    
@@ -172,7 +179,7 @@ p {
     font-weight: 500;
     color: #D6D6D6;
     float: left;
-    padding-bottom: 4vh; 
+    padding-bottom: 0vh; 
    }
    
 .class6:link {text-decoration: none; color: #D6D6D6; background-color: transparent;}
