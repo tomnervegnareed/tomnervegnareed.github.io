@@ -101,7 +101,7 @@ p {
 .Textindent {
     text-indent: 50px;
     font-family: 'Padauk', sans-serif;
-		font-size: calc( 18px + (26 - 18) * (100vw - 450px) / (1000 - 450) );
+		font-size: calc( 18px + (22 - 18) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0 rem;
     font-weight: 500;
     color: #D6D6D6;
@@ -174,7 +174,7 @@ p {
 /* info text */
 .class6 {
 		font-family: 'Padauk', sans-serif;
-		font-size: calc( 18px + (26 - 18) * (100vw - 450px) / (1000 - 450) );
+		font-size: calc( 18px + (22 - 18) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0 rem;
     font-weight: 500;
     color: #D6D6D6;
