@@ -1,3 +1,11 @@
 url: http://tommasonervegnareed.com
 gems:
   - tommaso nervegna-reed
+title: Tommaso Nervegna-Reed
+
+description: Tommaso Nervegna-Reed 
+url: "http://tommasonervegnareed.com" 
+
+
+plugins:
+  - jekyll-feed
