@@ -162,9 +162,9 @@ p {
 }
 .class5:link {text-decoration: none; color: #ffffff;}
 .class5:visited {text-decoration: none; color: #ffffff;}
-.class5:hover {text-decoration: none; color: #000; transition: 0.2s; background-color: transparent; text-shadow: 1px 1px 3px #b8b8b8, 1px 1px 6px #a4a4ff;}
+.class5:hover {text-decoration: none; color: #000; transition: 0.2s; background-color: transparent; text-shadow: 1px 1px 3px #b8b8b8, 1px 1px 6px #b8b8b8;}
 .class5:active {text-decoration: none; color: #ffffff;}
-.class5:focus {text-decoration: none; color: #000; transition: 0.2s; cursor: pointer;  text-shadow: 1px 1px 3px #b8b8b8, 0.01vw 0.01vw 0.8vw #a4a4ff;}
+.class5:focus {text-decoration: none; color: #000; transition: 0.2s; cursor: pointer;  text-shadow: 1px 1px 3px #b8b8b8, 0.01vw 0.01vw 0.8vw #b8b8b8;}
 
 
 
