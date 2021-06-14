@@ -48,7 +48,7 @@ p {
 ::selection {
   background: #7b7b7b;
   color: white;
-  text-shadow: 0.01vw 0.01vw 0.4vw #a4a4ff, 0.01vw 0.01vw 0.01vw #ffffff;
+  text-shadow: 0.01vw 0.01vw 0.4vw #ffffff, 0.01vw 0.01vw 0.01vw #ffffff;
 }
 
 .heading { 
