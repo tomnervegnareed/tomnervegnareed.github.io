@@ -277,6 +277,18 @@ p {
 	padding-bottom: 40px;
 }
 
+.imageP35mm2 {
+	width: 100%;
+	max-width: 450px;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	padding-top: 15px;
+	padding-bottom: 40px;
+	cursor: pointer;
+}
+
+
 
 
 /* youtube video */
